@@ -1,1 +1,1 @@
-# Quiz-app
+# https://quizviit.netlify.app/
